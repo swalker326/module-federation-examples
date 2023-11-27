@@ -18,8 +18,8 @@ importers:
   checkout:
     dependencies:
       '@module-federation/nextjs-mf':
-        specifier: 8.1.0-canary.6
-        version: 8.1.0-canary.6(next@14.0.3)(react-dom@18.2.0)(react@18.2.0)(webpack@5.89.0)
+        specifier: 8.1.0-canary.7
+        version: 8.1.0-canary.7(next@14.0.3)(react-dom@18.2.0)(react@18.2.0)(webpack@5.89.0)
       lodash:
         specifier: 4.17.21
         version: 4.17.21
@@ -39,8 +39,8 @@ importers:
   home:
     dependencies:
       '@module-federation/nextjs-mf':
-        specifier: 8.1.0-canary.6
-        version: 8.1.0-canary.6(next@14.0.3)(react-dom@18.2.0)(react@18.2.0)(webpack@5.89.0)
+        specifier: 8.1.0-canary.7
+        version: 8.1.0-canary.7(next@14.0.3)(react-dom@18.2.0)(react@18.2.0)(webpack@5.89.0)
       lodash:
         specifier: 4.17.21
         version: 4.17.21
@@ -60,8 +60,8 @@ importers:
   shop:
     dependencies:
       '@module-federation/nextjs-mf':
-        specifier: 8.1.0-canary.6
-        version: 8.1.0-canary.6(next@14.0.3)(react-dom@18.2.0)(react@18.2.0)(webpack@5.89.0)
+        specifier: 8.1.0-canary.7
+        version: 8.1.0-canary.7(next@14.0.3)(react-dom@18.2.0)(react@18.2.0)(webpack@5.89.0)
       lodash:
         specifier: 4.17.21
         version: 4.17.21
@@ -134,8 +134,8 @@ packages:
       '@jridgewell/sourcemap-codec': 1.4.15
     dev: false
 
-  /@module-federation/enhanced@0.2.0-canary.4(webpack@5.89.0):
-    resolution: {integrity: sha512-kieFXNWrPCbE0+SlQ//JW+YdzjrYBHYOav+BBMWdEqBdW0xurAa9/c5VIl8gR2uyxauJK46OTAwthuEJhIfDrA==}
+  /@module-federation/enhanced@0.2.0-canary.5(webpack@5.89.0):
+    resolution: {integrity: sha512-ggd3BhgJyt4tEjf7V1GD8/6Y66al/BoNYymbwTj5gZ+Ye0QBfW4Jqcb3ILHWEbSa0WDpvN54RtAtCRuqAAOOGg==}
     peerDependencies:
       webpack: ^5.0.0
     dependencies:
@@ -143,8 +143,8 @@ packages:
       webpack-sources: 3.2.3
     dev: false
 
-  /@module-federation/nextjs-mf@8.1.0-canary.6(next@14.0.3)(react-dom@18.2.0)(react@18.2.0)(webpack@5.89.0):
-    resolution: {integrity: sha512-6K43MEuVNcp9XBuj0aDA5UucP+VfnrO5+Lt4Iv4OVhP7oW8PpjvEHo+ZO/lXgJuYSZH6EvYCciQyhMRBE+/jdg==}
+  /@module-federation/nextjs-mf@8.1.0-canary.7(next@14.0.3)(react-dom@18.2.0)(react@18.2.0)(webpack@5.89.0):
+    resolution: {integrity: sha512-RKHaNP6PppNllHwg2d8nEd/0GDJUo7EsM74P2+ARnTC+CWC1PAu0s4R2QwhmCDs/2stHgN9GBT7/uE8Yp/TNcQ==}
     peerDependencies:
       next: ^12 || ^13 || ^14
       react: ^17 || ^18
@@ -155,8 +155,8 @@ packages:
       styled-jsx:
         optional: true
     dependencies:
-      '@module-federation/enhanced': 0.2.0-canary.4(webpack@5.89.0)
-      '@module-federation/node': 2.1.0-canary.5(next@14.0.3)(react-dom@18.2.0)(react@18.2.0)(webpack@5.89.0)
+      '@module-federation/enhanced': 0.2.0-canary.5(webpack@5.89.0)
+      '@module-federation/node': 2.1.0-canary.6(next@14.0.3)(react-dom@18.2.0)(react@18.2.0)(webpack@5.89.0)
       '@module-federation/utilities': 3.0.3-0(next@14.0.3)(react-dom@18.2.0)(react@18.2.0)(webpack@5.89.0)
       encoding: 0.1.13
       eventemitter3: 5.0.1
@@ -170,8 +170,8 @@ packages:
       webpack-sources: 3.2.3
     dev: false
 
-  /@module-federation/node@2.1.0-canary.5(next@14.0.3)(react-dom@18.2.0)(react@18.2.0)(webpack@5.89.0):
-    resolution: {integrity: sha512-MArBhWt4lccd1IOFmqPcqhbxgfqem2/il8mWkBkGiJVT+YLyKK7PCkSYZI8CfxrOfrTpjvFN0MCpM7/Mg/tUxQ==}
+  /@module-federation/node@2.1.0-canary.6(next@14.0.3)(react-dom@18.2.0)(react@18.2.0)(webpack@5.89.0):
+    resolution: {integrity: sha512-yO7hD/YAh6rmU37QCZXw0agbgp4TJPew/uIEJtx0PL7q13tzfjgZXCZoYpI9Z2G+OBRFgbb+YuVfZSd14UtVZA==}
     peerDependencies:
       next: ^12||^13
       react: ^16||^17||^18
@@ -185,7 +185,7 @@ packages:
       react-dom:
         optional: true
     dependencies:
-      '@module-federation/enhanced': 0.2.0-canary.4(webpack@5.89.0)
+      '@module-federation/enhanced': 0.2.0-canary.5(webpack@5.89.0)
       '@module-federation/utilities': 3.0.3-0(next@14.0.3)(react-dom@18.2.0)(react@18.2.0)(webpack@5.89.0)
       encoding: 0.1.13
       next: 14.0.3(react-dom@18.2.0)(react@18.2.0)
