@@ -110,8 +110,8 @@ importers:
         specifier: 9.1.3
         version: 9.1.3(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -144,8 +144,8 @@ importers:
         specifier: 9.1.3
         version: 9.1.3(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -196,8 +196,8 @@ importers:
         specifier: 9.1.0
         version: 9.1.0(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -236,8 +236,8 @@ importers:
         specifier: 9.1.3
         version: 9.1.3(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -279,8 +279,8 @@ importers:
         specifier: 9.1.3
         version: 9.1.3(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -322,8 +322,8 @@ importers:
         specifier: 9.1.3
         version: 9.1.3(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -356,8 +356,8 @@ importers:
         specifier: 9.1.3
         version: 9.1.3(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -393,8 +393,8 @@ importers:
         specifier: 9.1.3
         version: 9.1.3(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -436,8 +436,8 @@ importers:
         specifier: 9.1.3
         version: 9.1.3(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -501,7 +501,7 @@ importers:
     devDependencies:
       '@angular-devkit/build-angular':
         specifier: 15.2.10
-        version: 15.2.10(@angular/compiler-cli@15.1.2)(@angular/platform-server@15.2.9)(html-webpack-plugin@5.5.3)(typescript@4.9.5)(webpack-cli@5.0.1)
+        version: 15.2.10(@angular/compiler-cli@15.1.2)(@angular/platform-server@15.2.9)(html-webpack-plugin@5.5.4)(typescript@4.9.5)(webpack-cli@5.0.1)
       '@angular/cli':
         specifier: 15.2.10
         version: 15.2.10
@@ -518,8 +518,8 @@ importers:
         specifier: 4.0.0
         version: 4.0.0(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       raw-loader:
         specifier: 4.0.2
         version: 4.0.2(webpack@5.80.0)
@@ -589,7 +589,7 @@ importers:
     devDependencies:
       '@angular-devkit/build-angular':
         specifier: 15.2.10
-        version: 15.2.10(@angular/compiler-cli@15.1.2)(@angular/platform-server@15.2.9)(html-webpack-plugin@5.5.3)(typescript@4.9.5)(webpack-cli@5.0.1)
+        version: 15.2.10(@angular/compiler-cli@15.1.2)(@angular/platform-server@15.2.9)(html-webpack-plugin@5.5.4)(typescript@4.9.5)(webpack-cli@5.0.1)
       '@angular/cli':
         specifier: 15.2.10
         version: 15.2.10
@@ -606,8 +606,8 @@ importers:
         specifier: 4.0.0
         version: 4.0.0(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       raw-loader:
         specifier: 4.0.2
         version: 4.0.2(webpack@5.80.0)
@@ -1769,8 +1769,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       rimraf:
         specifier: 5.0.5
         version: 5.0.5
@@ -1903,8 +1903,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       swc-loader:
         specifier: 0.2.3
         version: 0.2.3(@swc/core@1.3.100)(webpack@5.80.0)
@@ -1958,8 +1958,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -2016,8 +2016,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -2155,8 +2155,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       mini-css-extract-plugin:
         specifier: 2.7.6
         version: 2.7.6(webpack@5.80.0)
@@ -2188,8 +2188,8 @@ importers:
         specifier: 7.0.3
         version: 7.0.3
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       lit-element:
         specifier: 2.5.1
         version: 2.5.1
@@ -2342,8 +2342,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       mini-css-extract-plugin:
         specifier: 2.7.6
         version: 2.7.6(webpack@5.80.0)
@@ -2375,8 +2375,8 @@ importers:
         specifier: 7.0.3
         version: 7.0.3
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       lit-element:
         specifier: 2.5.1
         version: 2.5.1
@@ -2469,8 +2469,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -2509,8 +2509,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -2558,8 +2558,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -2592,8 +2592,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -2648,8 +2648,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -2697,8 +2697,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -2737,8 +2737,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -2774,8 +2774,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -2824,8 +2824,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -2873,8 +2873,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -2913,8 +2913,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -2950,8 +2950,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -2990,8 +2990,8 @@ importers:
         specifier: 8.2.3
         version: 8.2.3(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -3024,8 +3024,8 @@ importers:
         specifier: 8.2.3
         version: 8.2.3(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -3076,8 +3076,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -3125,8 +3125,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -3165,8 +3165,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -3202,8 +3202,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -3266,8 +3266,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -3303,8 +3303,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -3346,8 +3346,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -3399,8 +3399,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       isomorphic-style-loader:
         specifier: 5.3.2
         version: 5.3.2(react-dom@18.2.0)(react@18.2.0)
@@ -3457,8 +3457,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       isomorphic-style-loader:
         specifier: 5.3.2
         version: 5.3.2(react-dom@18.2.0)(react@18.2.0)
@@ -3512,8 +3512,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       isomorphic-style-loader:
         specifier: 5.3.2
         version: 5.3.2(react-dom@18.2.0)(react@18.2.0)
@@ -3570,8 +3570,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       isomorphic-style-loader:
         specifier: 5.3.2
         version: 5.3.2(react-dom@18.2.0)(react@18.2.0)
@@ -3634,8 +3634,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       isomorphic-style-loader:
         specifier: 5.3.2
         version: 5.3.2(react-dom@18.2.0)(react@18.2.0)
@@ -3695,8 +3695,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       isomorphic-style-loader:
         specifier: 5.3.2
         version: 5.3.2(react-dom@18.2.0)(react@18.2.0)
@@ -3762,8 +3762,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       isomorphic-style-loader:
         specifier: 5.3.2
         version: 5.3.2(react-dom@18.2.0)(react@18.2.0)
@@ -3856,8 +3856,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       isomorphic-style-loader:
         specifier: 5.3.2
         version: 5.3.2(react-dom@18.2.0)(react@18.2.0)
@@ -3947,8 +3947,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       isomorphic-style-loader:
         specifier: 5.3.2
         version: 5.3.2(react-dom@18.2.0)(react@18.2.0)
@@ -4038,8 +4038,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       isomorphic-style-loader:
         specifier: 5.3.2
         version: 5.3.2(react-dom@18.2.0)(react@18.2.0)
@@ -4129,8 +4129,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       isomorphic-style-loader:
         specifier: 5.3.2
         version: 5.3.2(react-dom@18.2.0)(react@18.2.0)
@@ -4220,8 +4220,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       isomorphic-style-loader:
         specifier: 5.3.2
         version: 5.3.2(react-dom@18.2.0)(react@18.2.0)
@@ -4311,8 +4311,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       isomorphic-style-loader:
         specifier: 5.3.2
         version: 5.3.2(react-dom@18.2.0)(react@18.2.0)
@@ -4512,8 +4512,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -4549,8 +4549,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -4586,8 +4586,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -4623,8 +4623,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -4660,8 +4660,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -4697,8 +4697,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -4734,8 +4734,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -4771,8 +4771,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -4811,8 +4811,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -4851,8 +4851,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -4888,8 +4888,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -4931,8 +4931,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -4977,8 +4977,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -5014,8 +5014,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -5060,8 +5060,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -5109,8 +5109,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -5161,8 +5161,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       postcss:
         specifier: ^8.4.31
         version: 8.4.32
@@ -5216,8 +5216,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       postcss:
         specifier: ^8.4.31
         version: 8.4.32
@@ -5265,8 +5265,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       postcss:
         specifier: ^8.4.31
         version: 8.4.32
@@ -5323,8 +5323,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -5357,8 +5357,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -5394,8 +5394,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -5726,8 +5726,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       postcss:
         specifier: 8.4.32
         version: 8.4.32
@@ -5802,8 +5802,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       postcss:
         specifier: 8.4.32
         version: 8.4.32
@@ -6227,8 +6227,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       less:
         specifier: 4.2.0
         version: 4.2.0
@@ -6291,8 +6291,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       less:
         specifier: 4.2.0
         version: 4.2.0
@@ -6355,8 +6355,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       less:
         specifier: 4.2.0
         version: 4.2.0
@@ -6416,8 +6416,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       less:
         specifier: 4.2.0
         version: 4.2.0
@@ -6519,8 +6519,8 @@ importers:
         specifier: 2.20.0
         version: 2.20.0(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       less:
         specifier: 4.2.0
         version: 4.2.0
@@ -6583,8 +6583,8 @@ importers:
         specifier: 2.20.0
         version: 2.20.0(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       less:
         specifier: 4.2.0
         version: 4.2.0
@@ -6650,8 +6650,8 @@ importers:
         specifier: 2.20.0
         version: 2.20.0(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       less:
         specifier: 4.2.0
         version: 4.2.0
@@ -6714,8 +6714,8 @@ importers:
         specifier: 2.20.0
         version: 2.20.0(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       less:
         specifier: 4.2.0
         version: 4.2.0
@@ -6759,8 +6759,8 @@ importers:
         specifier: 2.20.0
         version: 2.20.0(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.0.1
         version: 14.0.1
@@ -7301,8 +7301,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       identity-obj-proxy:
         specifier: 3.0.0
         version: 3.0.0
@@ -7386,8 +7386,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       identity-obj-proxy:
         specifier: 3.0.0
         version: 3.0.0
@@ -7441,8 +7441,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -7475,8 +7475,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -7509,8 +7509,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -7589,8 +7589,8 @@ importers:
         specifier: 9.1.3
         version: 9.1.3(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -8121,8 +8121,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       rimraf:
         specifier: 3.0.2
         version: 3.0.2
@@ -8176,8 +8176,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       rimraf:
         specifier: 3.0.2
         version: 3.0.2
@@ -8587,8 +8587,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       rimraf:
         specifier: 3.0.2
         version: 3.0.2
@@ -8642,8 +8642,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       rimraf:
         specifier: 3.0.2
         version: 3.0.2
@@ -8751,8 +8751,8 @@ importers:
         specifier: 1.0.0
         version: 1.0.0(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       webpack:
         specifier: 5.80.0
         version: 5.80.0(webpack-cli@4.10.0)
@@ -8806,8 +8806,8 @@ importers:
         specifier: 1.0.0
         version: 1.0.0(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       react-refresh:
         specifier: 0.14.0
         version: 0.14.0
@@ -8849,8 +8849,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 13.0.4
         version: 13.0.4
@@ -8895,8 +8895,8 @@ importers:
         specifier: 6.2.0
         version: 6.2.0(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       mini-css-extract-plugin:
         specifier: 2.7.6
         version: 2.7.6(webpack@5.80.0)
@@ -8978,8 +8978,8 @@ importers:
         specifier: ^7.6.0
         version: 7.6.0
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 13.0.4
         version: 13.0.4
@@ -9074,8 +9074,8 @@ importers:
         specifier: ^7.6.0
         version: 7.6.0
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.0.1
         version: 14.0.1
@@ -9142,8 +9142,8 @@ importers:
         specifier: ^7.6.0
         version: 7.6.0
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       react-router-dom:
         specifier: 6.5.0
         version: 6.5.0(react-dom@18.2.0)(react@18.2.0)
@@ -9185,8 +9185,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       react-router-dom:
         specifier: 6.5.0
         version: 6.5.0(react-dom@18.2.0)(react@18.2.0)
@@ -9325,8 +9325,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 13.0.4
         version: 13.0.4
@@ -9362,8 +9362,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 13.0.4
         version: 13.0.4
@@ -9454,8 +9454,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       style-loader:
         specifier: 3.3.3
         version: 3.3.3(webpack@5.80.0)
@@ -9522,8 +9522,8 @@ importers:
         specifier: 2.20.0
         version: 2.20.0(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       webpack:
         specifier: 5.80.0
         version: 5.80.0(webpack-cli@4.10.0)
@@ -9582,8 +9582,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 13.0.4
         version: 13.0.4
@@ -9619,8 +9619,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 13.0.4
         version: 13.0.4
@@ -9714,8 +9714,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       webpack:
         specifier: 5.80.0
         version: 5.80.0(webpack-cli@4.9.2)
@@ -9873,8 +9873,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 13.0.4
         version: 13.0.4
@@ -9907,8 +9907,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 13.0.4
         version: 13.0.4
@@ -9956,8 +9956,8 @@ importers:
         specifier: 9.1.3
         version: 9.1.3(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -9993,8 +9993,8 @@ importers:
         specifier: 9.1.3
         version: 9.1.3(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -10053,8 +10053,8 @@ importers:
         specifier: 5.0.0
         version: 5.0.0
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 13.0.4
         version: 13.0.4
@@ -10096,8 +10096,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 13.0.4
         version: 13.0.4
@@ -10157,8 +10157,8 @@ importers:
         specifier: 5.0.0
         version: 5.0.0
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 13.0.4
         version: 13.0.4
@@ -10215,8 +10215,8 @@ importers:
         specifier: 5.0.0
         version: 5.0.0
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 13.0.4
         version: 13.0.4
@@ -10270,8 +10270,8 @@ importers:
         specifier: 5.0.0
         version: 5.0.0
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 13.0.4
         version: 13.0.4
@@ -10396,8 +10396,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 13.0.4
         version: 13.0.4
@@ -10708,8 +10708,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 13.0.4
         version: 13.0.4
@@ -10763,8 +10763,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -10812,8 +10812,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -10864,8 +10864,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 13.0.4
         version: 13.0.4
@@ -10913,8 +10913,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 13.0.4
         version: 13.0.4
@@ -10974,8 +10974,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 13.0.4
         version: 13.0.4
@@ -11023,8 +11023,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 13.0.4
         version: 13.0.4
@@ -11117,8 +11117,8 @@ importers:
         specifier: 16.3.1
         version: 16.3.1
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       jest:
         specifier: ^29.5.0
         version: 29.7.0(@types/node@20.9.0)
@@ -11187,8 +11187,8 @@ importers:
         specifier: 3.33.3
         version: 3.33.3
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       regenerator-runtime:
         specifier: 0.14.0
         version: 0.14.0
@@ -11239,8 +11239,8 @@ importers:
         specifier: ^3.33.2
         version: 3.33.3
       html-webpack-plugin:
-        specifier: ^5.5.0
-        version: 5.5.3(webpack@5.80.0)
+        specifier: ^5.5.3
+        version: 5.5.4(webpack@5.80.0)
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -11294,8 +11294,8 @@ importers:
         specifier: ^3.33.2
         version: 3.33.3
       html-webpack-plugin:
-        specifier: ^5.5.0
-        version: 5.5.3(webpack@5.80.0)
+        specifier: ^5.5.3
+        version: 5.5.4(webpack@5.80.0)
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -11352,8 +11352,8 @@ importers:
         specifier: 16.3.1
         version: 16.3.1
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       regenerator-runtime:
         specifier: 0.14.0
         version: 0.14.0
@@ -11407,8 +11407,8 @@ importers:
         specifier: 9.1.2
         version: 9.1.2(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -11456,8 +11456,8 @@ importers:
         specifier: 9.1.2
         version: 9.1.2(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -11502,8 +11502,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       semverhook:
         specifier: 1.2.0
         version: 1.2.0
@@ -11539,8 +11539,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       universal-module-federation-plugin:
         specifier: 1.0.9
         version: 1.0.9
@@ -11582,8 +11582,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -11619,8 +11619,8 @@ importers:
         specifier: 8.2.5
         version: 8.2.5(@babel/core@7.23.5)(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       serve:
         specifier: 14.2.1
         version: 14.2.1
@@ -11751,8 +11751,8 @@ importers:
         specifier: 6.8.1
         version: 6.8.1(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       style-loader:
         specifier: 3.3.3
         version: 3.3.3(webpack@5.80.0)
@@ -12231,8 +12231,8 @@ importers:
         specifier: 6.2.0
         version: 6.2.0(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       mini-css-extract-plugin:
         specifier: 2.7.6
         version: 2.7.6(webpack@5.80.0)
@@ -12280,8 +12280,8 @@ importers:
         specifier: 6.2.0
         version: 6.2.0(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       mini-css-extract-plugin:
         specifier: 2.7.6
         version: 2.7.6(webpack@5.80.0)
@@ -12488,8 +12488,8 @@ importers:
         specifier: 6.2.0
         version: 6.2.0(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       mini-css-extract-plugin:
         specifier: 2.7.6
         version: 2.7.6(webpack@5.80.0)
@@ -12531,8 +12531,8 @@ importers:
         specifier: 6.2.0
         version: 6.2.0(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       mini-css-extract-plugin:
         specifier: 2.7.6
         version: 2.7.6(webpack@5.80.0)
@@ -12577,8 +12577,8 @@ importers:
         specifier: 6.2.0
         version: 6.2.0(webpack@5.80.0)
       html-webpack-plugin:
-        specifier: 5.5.3
-        version: 5.5.3(webpack@5.80.0)
+        specifier: 5.5.4
+        version: 5.5.4(webpack@5.80.0)
       mini-css-extract-plugin:
         specifier: 2.7.6
         version: 2.7.6(webpack@5.80.0)
@@ -13608,7 +13608,7 @@ packages:
       - webpack-cli
     dev: true
 
-  /@angular-devkit/build-angular@15.2.10(@angular/compiler-cli@15.1.2)(@angular/platform-server@15.2.9)(html-webpack-plugin@5.5.3)(typescript@4.9.5)(webpack-cli@5.0.1):
+  /@angular-devkit/build-angular@15.2.10(@angular/compiler-cli@15.1.2)(@angular/platform-server@15.2.9)(html-webpack-plugin@5.5.4)(typescript@4.9.5)(webpack-cli@5.0.1):
     resolution: {integrity: sha512-3pCPVEJilVwHIJC6Su1/PIEqvFfU1Lxew9yItxX4s6dud8HY+fuKrsDnao4NNMFNqCLqL4el5QbSBKnnpWH1sg==}
     engines: {node: ^14.20.0 || ^16.13.0 || >=18.10.0, npm: ^6.11.0 || ^7.5.6 || >=8.0.0, yarn: '>= 1.13.0'}
     peerDependencies:
@@ -13699,7 +13699,7 @@ packages:
       webpack-dev-middleware: 6.0.1(webpack@5.80.0)
       webpack-dev-server: 4.11.1(webpack-cli@5.0.1)(webpack@5.80.0)
       webpack-merge: 5.8.0
-      webpack-subresource-integrity: 5.1.0(html-webpack-plugin@5.5.3)(webpack@5.80.0)
+      webpack-subresource-integrity: 5.1.0(html-webpack-plugin@5.5.4)(webpack@5.80.0)
     optionalDependencies:
       esbuild: 0.17.8
     transitivePeerDependencies:
@@ -16434,7 +16434,7 @@ packages:
       '@babel/core': 7.14.8
       '@babel/helper-plugin-utils': 7.22.5
       '@babel/helper-skip-transparent-expression-wrappers': 7.22.5
-      '@babel/plugin-transform-optional-chaining': 7.23.3(@babel/core@7.14.8)
+      '@babel/plugin-transform-optional-chaining': 7.23.4(@babel/core@7.14.8)
     dev: true
 
   /@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining@7.23.3(@babel/core@7.18.10):
@@ -16446,7 +16446,7 @@ packages:
       '@babel/core': 7.18.10
       '@babel/helper-plugin-utils': 7.22.5
       '@babel/helper-skip-transparent-expression-wrappers': 7.22.5
-      '@babel/plugin-transform-optional-chaining': 7.23.3(@babel/core@7.18.10)
+      '@babel/plugin-transform-optional-chaining': 7.23.4(@babel/core@7.18.10)
 
   /@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining@7.23.3(@babel/core@7.20.12):
     resolution: {integrity: sha512-WwlxbfMNdVEpQjZmK5mhm7oSwD3dS6eU+Iwsi4Knl9wAletWem7kaRsGOG+8UEbRyqxY4SS5zvtfXwX+jMxUwQ==}
@@ -16457,7 +16457,7 @@ packages:
       '@babel/core': 7.20.12
       '@babel/helper-plugin-utils': 7.22.5
       '@babel/helper-skip-transparent-expression-wrappers': 7.22.5
-      '@babel/plugin-transform-optional-chaining': 7.23.3(@babel/core@7.20.12)
+      '@babel/plugin-transform-optional-chaining': 7.23.4(@babel/core@7.20.12)
     dev: true
 
   /@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining@7.23.3(@babel/core@7.22.17):
@@ -16469,7 +16469,7 @@ packages:
       '@babel/core': 7.22.17
       '@babel/helper-plugin-utils': 7.22.5
       '@babel/helper-skip-transparent-expression-wrappers': 7.22.5
-      '@babel/plugin-transform-optional-chaining': 7.23.3(@babel/core@7.22.17)
+      '@babel/plugin-transform-optional-chaining': 7.23.4(@babel/core@7.22.17)
     dev: true
 
   /@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining@7.23.3(@babel/core@7.23.3):
@@ -16481,7 +16481,7 @@ packages:
       '@babel/core': 7.23.3
       '@babel/helper-plugin-utils': 7.22.5
       '@babel/helper-skip-transparent-expression-wrappers': 7.22.5
-      '@babel/plugin-transform-optional-chaining': 7.23.3(@babel/core@7.23.3)
+      '@babel/plugin-transform-optional-chaining': 7.23.4(@babel/core@7.23.3)
     dev: true
 
   /@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining@7.23.3(@babel/core@7.23.5):
@@ -21598,41 +21598,6 @@ packages:
       '@babel/helper-plugin-utils': 7.22.5
       '@babel/plugin-syntax-optional-catch-binding': 7.8.3(@babel/core@7.23.5)
 
-  /@babel/plugin-transform-optional-chaining@7.23.3(@babel/core@7.14.8):
-    resolution: {integrity: sha512-zvL8vIfIUgMccIAK1lxjvNv572JHFJIKb4MWBz5OGdBQA0fB0Xluix5rmOby48exiJc987neOmP/m9Fnpkz3Tg==}
-    engines: {node: '>=6.9.0'}
-    peerDependencies:
-      '@babel/core': ^7.0.0-0
-    dependencies:
-      '@babel/core': 7.14.8
-      '@babel/helper-plugin-utils': 7.22.5
-      '@babel/helper-skip-transparent-expression-wrappers': 7.22.5
-      '@babel/plugin-syntax-optional-chaining': 7.8.3(@babel/core@7.14.8)
-    dev: true
-
-  /@babel/plugin-transform-optional-chaining@7.23.3(@babel/core@7.18.10):
-    resolution: {integrity: sha512-zvL8vIfIUgMccIAK1lxjvNv572JHFJIKb4MWBz5OGdBQA0fB0Xluix5rmOby48exiJc987neOmP/m9Fnpkz3Tg==}
-    engines: {node: '>=6.9.0'}
-    peerDependencies:
-      '@babel/core': ^7.0.0-0
-    dependencies:
-      '@babel/core': 7.18.10
-      '@babel/helper-plugin-utils': 7.22.5
-      '@babel/helper-skip-transparent-expression-wrappers': 7.22.5
-      '@babel/plugin-syntax-optional-chaining': 7.8.3(@babel/core@7.18.10)
-
-  /@babel/plugin-transform-optional-chaining@7.23.3(@babel/core@7.20.12):
-    resolution: {integrity: sha512-zvL8vIfIUgMccIAK1lxjvNv572JHFJIKb4MWBz5OGdBQA0fB0Xluix5rmOby48exiJc987neOmP/m9Fnpkz3Tg==}
-    engines: {node: '>=6.9.0'}
-    peerDependencies:
-      '@babel/core': ^7.0.0-0
-    dependencies:
-      '@babel/core': 7.20.12
-      '@babel/helper-plugin-utils': 7.22.5
-      '@babel/helper-skip-transparent-expression-wrappers': 7.22.5
-      '@babel/plugin-syntax-optional-chaining': 7.8.3(@babel/core@7.20.12)
-    dev: true
-
   /@babel/plugin-transform-optional-chaining@7.23.3(@babel/core@7.22.17):
     resolution: {integrity: sha512-zvL8vIfIUgMccIAK1lxjvNv572JHFJIKb4MWBz5OGdBQA0fB0Xluix5rmOby48exiJc987neOmP/m9Fnpkz3Tg==}
     engines: {node: '>=6.9.0'}
@@ -21643,18 +21608,6 @@ packages:
       '@babel/helper-plugin-utils': 7.22.5
       '@babel/helper-skip-transparent-expression-wrappers': 7.22.5
       '@babel/plugin-syntax-optional-chaining': 7.8.3(@babel/core@7.22.17)
-    dev: true
-
-  /@babel/plugin-transform-optional-chaining@7.23.3(@babel/core@7.23.3):
-    resolution: {integrity: sha512-zvL8vIfIUgMccIAK1lxjvNv572JHFJIKb4MWBz5OGdBQA0fB0Xluix5rmOby48exiJc987neOmP/m9Fnpkz3Tg==}
-    engines: {node: '>=6.9.0'}
-    peerDependencies:
-      '@babel/core': ^7.0.0-0
-    dependencies:
-      '@babel/core': 7.23.3
-      '@babel/helper-plugin-utils': 7.22.5
-      '@babel/helper-skip-transparent-expression-wrappers': 7.22.5
-      '@babel/plugin-syntax-optional-chaining': 7.8.3(@babel/core@7.23.3)
     dev: true
 
   /@babel/plugin-transform-optional-chaining@7.23.3(@babel/core@7.23.5):
@@ -21668,6 +21621,53 @@ packages:
       '@babel/helper-skip-transparent-expression-wrappers': 7.22.5
       '@babel/plugin-syntax-optional-chaining': 7.8.3(@babel/core@7.23.5)
     dev: false
+
+  /@babel/plugin-transform-optional-chaining@7.23.4(@babel/core@7.14.8):
+    resolution: {integrity: sha512-ZU8y5zWOfjM5vZ+asjgAPwDaBjJzgufjES89Rs4Lpq63O300R/kOz30WCLo6BxxX6QVEilwSlpClnG5cZaikTA==}
+    engines: {node: '>=6.9.0'}
+    peerDependencies:
+      '@babel/core': ^7.0.0-0
+    dependencies:
+      '@babel/core': 7.14.8
+      '@babel/helper-plugin-utils': 7.22.5
+      '@babel/helper-skip-transparent-expression-wrappers': 7.22.5
+      '@babel/plugin-syntax-optional-chaining': 7.8.3(@babel/core@7.14.8)
+    dev: true
+
+  /@babel/plugin-transform-optional-chaining@7.23.4(@babel/core@7.18.10):
+    resolution: {integrity: sha512-ZU8y5zWOfjM5vZ+asjgAPwDaBjJzgufjES89Rs4Lpq63O300R/kOz30WCLo6BxxX6QVEilwSlpClnG5cZaikTA==}
+    engines: {node: '>=6.9.0'}
+    peerDependencies:
+      '@babel/core': ^7.0.0-0
+    dependencies:
+      '@babel/core': 7.18.10
+      '@babel/helper-plugin-utils': 7.22.5
+      '@babel/helper-skip-transparent-expression-wrappers': 7.22.5
+      '@babel/plugin-syntax-optional-chaining': 7.8.3(@babel/core@7.18.10)
+
+  /@babel/plugin-transform-optional-chaining@7.23.4(@babel/core@7.20.12):
+    resolution: {integrity: sha512-ZU8y5zWOfjM5vZ+asjgAPwDaBjJzgufjES89Rs4Lpq63O300R/kOz30WCLo6BxxX6QVEilwSlpClnG5cZaikTA==}
+    engines: {node: '>=6.9.0'}
+    peerDependencies:
+      '@babel/core': ^7.0.0-0
+    dependencies:
+      '@babel/core': 7.20.12
+      '@babel/helper-plugin-utils': 7.22.5
+      '@babel/helper-skip-transparent-expression-wrappers': 7.22.5
+      '@babel/plugin-syntax-optional-chaining': 7.8.3(@babel/core@7.20.12)
+    dev: true
+
+  /@babel/plugin-transform-optional-chaining@7.23.4(@babel/core@7.22.17):
+    resolution: {integrity: sha512-ZU8y5zWOfjM5vZ+asjgAPwDaBjJzgufjES89Rs4Lpq63O300R/kOz30WCLo6BxxX6QVEilwSlpClnG5cZaikTA==}
+    engines: {node: '>=6.9.0'}
+    peerDependencies:
+      '@babel/core': ^7.0.0-0
+    dependencies:
+      '@babel/core': 7.22.17
+      '@babel/helper-plugin-utils': 7.22.5
+      '@babel/helper-skip-transparent-expression-wrappers': 7.22.5
+      '@babel/plugin-syntax-optional-chaining': 7.8.3(@babel/core@7.22.17)
+    dev: true
 
   /@babel/plugin-transform-optional-chaining@7.23.4(@babel/core@7.23.3):
     resolution: {integrity: sha512-ZU8y5zWOfjM5vZ+asjgAPwDaBjJzgufjES89Rs4Lpq63O300R/kOz30WCLo6BxxX6QVEilwSlpClnG5cZaikTA==}
@@ -32270,7 +32270,7 @@ packages:
       '@angular-devkit/build-angular': ^15.0.0
     dependencies:
       '@angular-devkit/architect': 0.1502.9
-      '@angular-devkit/build-angular': 15.2.10(@angular/compiler-cli@15.1.2)(@angular/platform-server@15.2.9)(html-webpack-plugin@5.5.3)(typescript@4.9.5)(webpack-cli@5.0.1)
+      '@angular-devkit/build-angular': 15.2.10(@angular/compiler-cli@15.1.2)(@angular/platform-server@15.2.9)(html-webpack-plugin@5.5.4)(typescript@4.9.5)(webpack-cli@5.0.1)
       '@angular-devkit/core': 15.2.9
       '@nguniversal/common': 15.2.1(@angular/common@15.2.9)(@angular/core@15.2.9)
       browser-sync: 2.29.3
@@ -36741,7 +36741,7 @@ packages:
       fork-ts-checker-webpack-plugin: 6.5.3(eslint@8.55.0)(typescript@4.9.5)(webpack@5.80.0)
       glob: 7.2.3
       glob-promise: 3.4.0(glob@7.2.3)
-      html-webpack-plugin: 5.5.3(webpack@5.80.0)
+      html-webpack-plugin: 5.5.4(webpack@5.80.0)
       path-browserify: 1.0.1
       process: 0.11.10
       react: 17.0.2
@@ -37237,7 +37237,7 @@ packages:
       express: 4.18.2(supports-color@6.1.0)
       find-up: 5.0.0
       fs-extra: 9.1.0
-      html-webpack-plugin: 5.5.3(webpack@5.80.0)
+      html-webpack-plugin: 5.5.4(webpack@5.80.0)
       node-fetch: 2.6.9(encoding@0.1.13)
       process: 0.11.10
       react: 17.0.2
@@ -40846,7 +40846,7 @@ packages:
       fs-extra: 9.1.0
       globby: 11.1.0
       hash-sum: 2.0.0
-      html-webpack-plugin: 5.5.3(webpack@5.80.0)
+      html-webpack-plugin: 5.5.4(webpack@5.80.0)
       is-file-esm: 1.0.0
       launch-editor-middleware: 2.6.0
       lodash.defaultsdeep: 4.6.1
@@ -41003,7 +41003,7 @@ packages:
       fs-extra: 9.1.0
       globby: 11.1.0
       hash-sum: 2.0.0
-      html-webpack-plugin: 5.5.3(webpack@5.80.0)
+      html-webpack-plugin: 5.5.4(webpack@5.80.0)
       is-file-esm: 1.0.0
       launch-editor-middleware: 2.6.0
       lodash.defaultsdeep: 4.6.1
@@ -54438,6 +54438,19 @@ packages:
 
   /html-webpack-plugin@5.5.3(webpack@5.80.0):
     resolution: {integrity: sha512-6YrDKTuqaP/TquFH7h4srYWsZx+x6k6+FbsTm0ziCwGHDP78Unr1r9F/H4+sGmMbX08GQcJ+K64x55b+7VM/jg==}
+    engines: {node: '>=10.13.0'}
+    peerDependencies:
+      webpack: 5.80.0
+    dependencies:
+      '@types/html-minifier-terser': 6.1.0
+      html-minifier-terser: 6.1.0
+      lodash: 4.17.21
+      pretty-error: 4.0.0
+      tapable: 2.2.1
+      webpack: 5.80.0(webpack-cli@4.10.0)
+
+  /html-webpack-plugin@5.5.4(webpack@5.80.0):
+    resolution: {integrity: sha512-3wNSaVVxdxcu0jd4FpQFoICdqgxs4zIQQvj+2yQKFfBOnLETQ6X5CDWdeasuGlSsooFlMkEioWDTqBv1wvw5Iw==}
     engines: {node: '>=10.13.0'}
     peerDependencies:
       webpack: 5.80.0
@@ -70429,7 +70442,7 @@ packages:
       eslint-webpack-plugin: 3.2.0(eslint@8.55.0)(webpack@5.80.0)
       file-loader: 6.2.0(webpack@5.80.0)
       fs-extra: 10.1.0
-      html-webpack-plugin: 5.5.3(webpack@5.80.0)
+      html-webpack-plugin: 5.5.4(webpack@5.80.0)
       identity-obj-proxy: 3.0.0
       jest: 27.5.1
       jest-resolve: 27.5.1
@@ -79342,6 +79355,21 @@ packages:
         optional: true
     dependencies:
       html-webpack-plugin: 5.5.3(webpack@5.80.0)
+      typed-assert: 1.0.9
+      webpack: 5.80.0(esbuild@0.17.19)(webpack-cli@5.0.1)
+    dev: true
+
+  /webpack-subresource-integrity@5.1.0(html-webpack-plugin@5.5.4)(webpack@5.80.0):
+    resolution: {integrity: sha512-sacXoX+xd8r4WKsy9MvH/q/vBtEHr86cpImXwyg74pFIpERKt6FmB8cXpeuh0ZLgclOlHI4Wcll7+R5L02xk9Q==}
+    engines: {node: '>= 12'}
+    peerDependencies:
+      html-webpack-plugin: '>= 5.0.0-beta.1 < 6'
+      webpack: 5.80.0
+    peerDependenciesMeta:
+      html-webpack-plugin:
+        optional: true
+    dependencies:
+      html-webpack-plugin: 5.5.4(webpack@5.80.0)
       typed-assert: 1.0.9
       webpack: 5.80.0(esbuild@0.17.8)(webpack-cli@5.0.1)
     dev: true
